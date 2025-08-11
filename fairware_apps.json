@@ -1,0 +1,20 @@
+{
+  "apps": [
+    {
+      "appName": "Privacy Guard Browser",
+      "appDescription": "A fast, private browser that blocks trackers and ads by default.",
+      "iconUrl": "https://via.placeholder.com/150/C1440E/FFFFFF?Text=P",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.fairware.privacyguard",
+      "appStoreUrl": "https://apps.apple.com/app/id123456789",
+      "isFeatured": true
+    },
+    {
+      "appName": "Secure Notes",
+      "appDescription": "End-to-end encrypted notes that only you can read.",
+      "iconUrl": "https://via.placeholder.com/150/111111/FFFFFF?Text=S",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.fairware.securenotes",
+      "appStoreUrl": "https://apps.apple.com/app/id987654321",
+      "isFeatured": false
+    }
+  ]
+}
