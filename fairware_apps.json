@@ -8,13 +8,5 @@
       "appStoreUrl": "",
       "isFeatured": true
     },
-    {
-      "appName": "ScrollShot — Long Screenshots",
-      "appDescription": "Capture anything. Stitch beautifully. Offline.",
-      "iconUrl": "URL_to_a_hosted_150x150_icon_image.png",
-      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.fairware.scrollshot",
-      "appStoreUrl": "",
-      "isFeatured": false
-    }
   ]
 }
